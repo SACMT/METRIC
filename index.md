@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 [<< Time Schedule](zeitplan.md)
 
 
@@ -40,9 +45,7 @@
 | Markaida, Ibai Pijoan (cello) | Markaida, Ibai Pijoan (cello) | Germanavicius, Pranas (percussion) | Germanavicius, Pranas (percussion) | -- |
 | Ehrlich, Mika (voice) | Ehrlich, Mika (voice) | Chelărescu, Alin (piano) | Chelărescu, Alin (piano) | -- |
 | -- | -- | Ribes, Aina (violin) | Ribes, Aina (violin) | -- |
-
 |   |   |   |   |   |
-|---|---|---|---|---|
 | ***Workshop 2 - 11.30*** | ***Workshop 2 - 11.30*** | ***Workshop 2 - 11.30*** | ***Workshop 2 - 11.30*** | ***Workshop 2 - 11.30*** |
 |   |   |   |   |   |
 | *Hein, Nicola Leonard* | *Hein, Nicola Leonard* | *Hein, Nicola Leonard* | *Hein, Nicola Leonard* | *Hein, Nicola Leonard / Alle Elektroniker* |
@@ -52,16 +55,12 @@
 | Lopez, Monica Candela (piano) | Lopez, Monica Candela (piano) | Cuamatzi, Juan (cello, composition) | Cuamatzi, Juan (cello, composition) | -- |
 | Alvarado, Achille | Alvarado, Achille | Kauniskangas, Otso (electronics, percussion) | Kauniskangas, Otso (electronics, percussion) | -- |
 | Smovzh, Orest (violin) | Smovzh, Orest (violin) | Macfadyen, Tom (electronics) | Macfadyen, Tom (electronics) | -- |
-
 |   |   |   |   |   |
-|---|---|---|---|---|
 | ***Orchestra / Groups - 15.00*** | ***Orchestra / Groups - 15.00*** | ***Orchestra / Groups - 15.00*** | ***Orchestra / Groups - 15.00*** | ***Orchestra / Groups - 15.00*** |
 | Poll, Anne-Liis / Pett, Anto - Large Ensemble | Poll, Anne-Liis / Pett, Anto - Large Ensemble | Poll, Anne-Liis / Pett, Anto and Other Teachers - Large Ensemble | Poll, Anne-Liis / Pett, Anto and Other Teachers - Large Ensemble | Poll, Anne-Liis / Pett, Anto and Other Teachers - Large Ensemble |
 |   |   |   |   |   |
 | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation |
-
 |   |   |   |   |   |
-|---|---|---|---|---|
 | ***Theory/Seminar - 16.15*** | ***Theory/Seminar - 16.15*** | ***Theory/Seminar - 16.15*** | ***Theory/Seminar - 16.15*** | -- |
 | Mureddu, Libero - Listening Session / Discussion | Herbert, Peter - Improvisation and Pedagogics | Critical Improvisation Studies | Improvisation and AI | -- |
 |   |   |   |   |   |

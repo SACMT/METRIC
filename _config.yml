@@ -1,3 +1,14 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+exclude:
+  - "comma-separated values.csv"
+  - "*.xlsx"
+  - "*.js"
+  - "csv_to_md.py"
+  - "xlsx_to_csv.py"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "_*.md"
+  - "_site"
