@@ -136,7 +136,7 @@ title: Home
 | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation | Electronic Teachers - Electronic Improvisation |
 |   |   |   |   |   |
 | ***Theory/Seminar - 16.15*** | ***Theory/Seminar - 16.15*** | ***Theory/Seminar - 16.15*** | ***Theory/Seminar - 16.15*** | -- |
-| Mureddu, Libero - Listening Session / Discussion |  Improvisation and Pedagogics | Critical Improvisation Studies | Improvisation and AI | -- |
+| Listening Session / Discussion |  Improvisation and Pedagogics | Critical Improvisation Studies | Improvisation and AI | -- |
 |   |   |   |   |   |
 | ***Concert - 19:30*** | ***Concert - 19:00*** | ***Concert - 19:30*** | ***Concert - 21:00*** | ***Concert - 19:00*** |
 | -- | ***Open Stage - 21:00*** | -- | -- | -- |
