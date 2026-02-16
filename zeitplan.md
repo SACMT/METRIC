@@ -22,5 +22,3 @@
 | 19.30 | Concert teachers (GS) | Open Stage (Versuchshaus) | | Teachers and Observers Dinner (Gioseppe) | Get together (?) | Concert teachers and guests (KMS) |
 | 20.30 | | | | | Get together (?) | |
 | 21.00 | | Open Stage (Versuchshaus) | | Students concert (CVJM) | | |
-| 10.00 | | | | | | Final discussion (KMS) |
-| 14.00 | | | | | | Steering committee |
