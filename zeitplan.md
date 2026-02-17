@@ -1,4 +1,3 @@
-[<< Main](index.md)
 # Schedule
 
 | Time | Monday 02.03 | Tuesday 03.03 | Wednesday 04.03 | Thursday 05.03 | Friday 06.03 | Saturday 07.03 |
