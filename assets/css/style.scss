@@ -16,7 +16,7 @@
 }
 
 .logo-left {
-  width: 25%;
+  width: auto;
   height: auto;
 }
 
@@ -32,9 +32,9 @@
   height: auto;
 }
 
-@media (max-width: 768px) {
-  .logo-right {
-    width: 40% !important;
-    height: auto;
-  }
-}
+// @media (max-width: 768px) {
+//   .logo-right {
+//     width: 40% !important;
+//     height: auto;
+//   }
+// }
