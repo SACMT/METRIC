@@ -8,3 +8,26 @@
     background-color: #ffffff;
     background-image: linear-gradient(120deg, #251d2f, #3a505b);
 }
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-left {
+  width: 25%;
+  height: auto;
+}
+
+.logo-stack {
+  display: flex;
+  flex-direction: column;   /* stack vertically */
+  align-items: flex-end;    /* align to the right */
+  gap: 0px;                /* space between stacked logos */
+}
+
+.logo-right {
+  width: 30%;
+  height: auto;
+}
