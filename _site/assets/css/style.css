@@ -863,3 +863,8 @@ a {
 .logo-right {
   width: 30%;
   height: auto; }
+
+@media (max-width: 768px) {
+  .logo-right {
+    width: 40% !important;
+    height: auto; } }
