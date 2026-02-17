@@ -3,8 +3,7 @@ layout: default
 title: Home
 ---
 
-[<< Time Schedule](zeitplan.md)
-
+# Workshops
 
 | Montag 02.03 | Dienstag 03.03 | Mittwoch 04.03 | Donnerstag 05.03 | Freitag 06.03 |
 |--------------|---------------|----------------|------------------|---------------|
