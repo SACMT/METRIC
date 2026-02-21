@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Workshops
+
 <details>
+
 <summary>Monday and Tuesday</summary>
 
 <div class="md">
@@ -118,7 +120,9 @@ layout: default
 </details>
 
 <details>
+
 <summary>Wednesday and Thursday</summary>
+
 <div class="md">
 
 ### Workshop 1 (09.30-11.00)
@@ -233,7 +237,9 @@ layout: default
 </details>
 
 <details>
+
 <summary>Friday</summary>
+
 <div class="md">
 
 ### Workshop 1 (09.30-11.00)
