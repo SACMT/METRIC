@@ -13,13 +13,13 @@
     {% include head-custom.html %}
   </head>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll("details .md").forEach(function (el) {
-      el.innerHTML = marked.parse(el.textContent);
-    });
-  });
-</script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        document.querySelectorAll("details .md").forEach(function (el) {
+          el.innerHTML = marked.parse(el.textContent);
+        });
+      });
+    </script>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
