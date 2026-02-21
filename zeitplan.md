@@ -4,7 +4,11 @@ layout: default
 
 # Schedule
 
-### Monday
+<details>
+
+<summary>Monday</summary>
+
+<div class="md">
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
@@ -18,7 +22,14 @@ layout: default
 | 17.30-19.00 | Performance preparation   | *Workshop Rooms / Chamber Music Hall*  |
 | 19.30-21.00 | Concert (teachers)        | *Big Hall*                             |
 
-### Tuesday
+</div>
+</details>
+
+<details>
+
+<summary>Tuesday</summary>
+
+<div class="md">
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
@@ -32,7 +43,14 @@ layout: default
 | 19.00-20.30 | Concert (students)        | *Chamber Music Hall*                   |
 | 21.00-22.00 | Open Stage                | *Versuchshaus*                         |
 
-### Wednesday
+</div>
+</details>
+
+<details>
+
+<summary>Wednesday</summary>
+
+<div class="md">
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
@@ -45,7 +63,14 @@ layout: default
 | 17.30-19.00 | Performance preparation   | *Workshop Rooms / Chamber Music Hall*  |
 | 19.30-21.00 | Concert (students)        | *Chamber Music Hall*                   |
 
-### Thursday
+</div>
+</details>
+
+<details>
+
+<summary>Thursday</summary>
+
+<div class="md">
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
@@ -60,7 +85,14 @@ layout: default
 | 19.00-21.00 | Teachers and Observers Dinner | *Gioseppe*                         |
 | 21.00-22.30 | Concert (students)        | *CVJM*                                 |
 
-### Friday
+</div>
+</details>
+
+<details>
+
+<summary>Friday</summary>
+
+<div class="md">
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
@@ -74,7 +106,14 @@ layout: default
 | 17.00-19.00 | Performance preparation   | *Workshop Rooms / Big Hall*            |
 | 19.00-21.00 | Concert                   | *Big Hall*                             |
 
-### Saturday
+</div>
+</details>
+
+<details>
+
+<summary>Saturday</summary>
+
+<div class="md">
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
@@ -84,3 +123,6 @@ layout: default
 | 13.00-14.00 | Lunch                     | *Cafeteria*                            |
 | 18.00-19.00 | Performance preparation   | *Chamber Music Hall*                   |
 | 19.00-21.00 | Concert (teachers)        | *Chamber Music Hall*                   |
+
+</div>
+</details>
