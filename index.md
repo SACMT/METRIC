@@ -295,22 +295,22 @@ layout: default
 
 # Seminars
 <details>
-<summary>Monday to Thursday</summary>
+<summary>Monday to Thursday at 16.15</summary>
 <div class="md">
 
-|Day|Time|Theme| Location |
-|:---------------|:---------------------------------|:---|---------------------------------------:|
-| Monday | 16.15 | Improvisation - Ethics - Politics | *Chamber Music Hall* |
-| Tuesday | 16.15 | Improvisation and Pedagogics | *Big Hall*|
-| Wednesday | 16.15 | Critical Improvisation Studies | *Big Hall*|
-| Thursday | 16.15 | Improvisation and AI | *Big Hall*|
+|Day|Theme| Location |
+|:---------------|:---|---------------------------------------:|
+| Monday  | Improvisation - Ethics - Politics | *Chamber Music Hall* |
+| Tuesday | Improvisation and Pedagogics | *Big Hall*|
+| Wednesday  | Critical Improvisation Studies | *Big Hall*|
+| Thursday  | Improvisation and AI | *Big Hall*|
 
 </div>
 </details>
 
-# Orchestra / Group Sessions
+# Orchestra / Electronic Group Sessions
 <details>
-<summary>Monday to Friday 15.00-16.00</summary>
+<summary>Monday to Friday at 15.00-16.00</summary>
 <div class="md">
 
 | Teachers | Session | Location |

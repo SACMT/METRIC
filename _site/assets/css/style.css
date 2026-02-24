@@ -846,25 +846,30 @@ a {
 .logo-container {
   display: flex;
   align-items: center;
-  justify-content: space-between; }
+  justify-content: center;
+  gap: 20px; }
 
-.logo-left {
-  width: auto;
-  height: auto; }
+.header-logo {
+  width: 180px;
+  height: auto;
+  object-fit: contain;
+  display: block; }
 
-.logo-stack {
+.logo-stacked {
   display: flex;
   flex-direction: column;
-  /* stack vertically */
-  align-items: flex-end;
-  /* align to the right */
   gap: 0px;
-  /* space between stacked logos */ }
+  margin-left: auto; }
 
-.logo-right {
-  width: 30%;
-  height: auto; }
+.logo-stacked .header-logo {
+  width: 180px; }
 
+@media (max-width: 600px) {
+  .logo-container {
+    gap: 10px; }
+
+  .header-logo {
+    width: 70px; } }
 /* =========================================
    <details> / <summary> — Cayman Theme CSS
    ========================================= */
