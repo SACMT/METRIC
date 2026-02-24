@@ -148,7 +148,6 @@ layout: default
 ||Aguilar, Eva (cello, composition) ||
 ||Markaida, Ibai Pijoan (cello) ||
 ||Kolb, Jacob (electric guitar)||
-||Pohland, Irma Malmros (drums) ||
 || Castella, Marcel (piano) ||
 ||||
 |Quintans, Santiago|Schrattenhofer, Florian (accordeon)|*Chamber Music Hall*|

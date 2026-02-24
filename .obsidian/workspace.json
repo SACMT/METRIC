@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e166f78abb7d155e",
+        "id": "55508c9dc35ef83d",
         "type": "tabs",
         "children": [
           {
-            "id": "a3eefe7cbbe6e901",
+            "id": "a7a2b7600cbb9846",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -178,7 +176,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3eefe7cbbe6e901",
+  "active": "a7a2b7600cbb9846",
   "lastOpenFiles": [
     "Preliminary Division Workshops+instruments-3.xlsx",
     "_site/assets/css/style.css.map",
