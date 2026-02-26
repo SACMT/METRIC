@@ -6,7 +6,7 @@ layout: default
 
 <details>
 
-<summary>Monday and Tuesday</summary>
+<summary>Monday and Tuesday (02.03, 03.03)</summary>
 
 <div class="md">
 
@@ -121,7 +121,7 @@ layout: default
 
 <details>
 
-<summary>Wednesday and Thursday</summary>
+<summary>Wednesday and Thursday (04.03, 05.03)</summary>
 
 <div class="md">
 
@@ -237,7 +237,7 @@ layout: default
 
 <details>
 
-<summary>Friday</summary>
+<summary>Friday (06.03)</summary>
 
 <div class="md">
 
