@@ -119,7 +119,7 @@ layout: default
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
 | 10.00-12.00 | Final Discussion          | *Chamber Music Hall*                   |
-| 12.00-14.00 | End of IP for students / Lunch break for teachers| |
+| 12.00-14.00 | End of IP for students / Lunch break for teachers| *Kartoffelspeicher An der Obertrave 6* |
 | 14.00-16.00 | Steering committee          | *Room 1.43*           |
 | 17.00-19.00 | Preparing for concert      | *Chamber Music Hall*                            |
 | 19.30 | Concert teachers and guests        | *Chamber Music Hall*                   |
