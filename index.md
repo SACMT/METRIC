@@ -217,7 +217,7 @@ layout: default
 ||Germanavicius, Pranas (percussion)||
 ||Schrattenhofer, Florian (accordeon)||
 ||||
-|Mayas, Magda | Alvarado, Achille |*Big Hall*|
+|Pett, Anto | Alvarado, Achille |*Big Hall*|
 ||Sigus, Karolin (piano)||
 ||Mannermaa, Lumi (voice,laptop)||
 ||Ng, Hoi Yin (vibraphone, percussion)||
@@ -277,7 +277,7 @@ layout: default
 ||||
 |MalkaPeled, Adaya||*Chamber Music Hall*|
 ||||
-|Mayas, Magda | |*Big Hall*|
+|Poll, Anne-Liis | |*Big Hall*|
 ||||
 |Forsén, Arne ||*Room 1AB*|
 ||Ehrlich, Mika (voice,piano)||
