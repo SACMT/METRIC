@@ -2,7 +2,7 @@
 layout: concerts
 ---
 
-# Monday 02.03
+# Monday 02.03, 19.30, Big Hall
 
 ***Liudas Mockūnas*** - Saxophones
 
