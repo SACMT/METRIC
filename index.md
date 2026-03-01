@@ -68,15 +68,15 @@ layout: default
 |González Fernández, Pedro| Merinero, Noah (piano/keyboard) |*Bank-Entrance Hall*|
 ||Theobald, Claire (violin)||
 ||Anderson, Jess (trombone)||
-||Ribes, Aina (violin)||
 ||Simirad, Alexandru (piano)||
+||Strauch, Charlotte (bass clarinet) ||
 ||||
 |Mooiman, Bert|Ekerold, Leala-Domini|*Room 1AB*|
 ||Roberts, Mathew (cello)||
 ||Smovzh, Orest (violin) ||
 ||Chelărescu, Alin (piano)||
-||Strauch, Charlotte (bass clarinet) ||
 ||Butas, Teodoras (saxophone)||
+||Ribes, Aina (violin)||
 
 ### Workshop 2 (11.30-13.00)
 
