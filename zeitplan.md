@@ -4,6 +4,19 @@ layout: default
 
 # Schedule
 
+<details> 
+
+<summary>How to find the rooms?</summary>
+
+<div class = "md">
+
+- [Big Hall](https://youtu.be/tFlvqdLwxcQ?si=tFYfav2fBRgc1Hml)
+- [Chamber Music Hall](https://youtu.be/lsjZAXjDkHI?si=OqMZRAvjDKLuXNQt)
+- [Room 18](https://youtu.be/3LiPA9wd25M?si=Go3ocz370y0PMwfk)
+- [Room 39](https://youtu.be/VWGncVVd-D8?si=01YUntg1tVbxBlql)
+
+</details>
+
 <details>
 
 <summary>Monday 02.03</summary>
