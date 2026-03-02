@@ -4,7 +4,7 @@ layout: concerts
 
 # Monday 02.03, 19.30, Big Hall
 
-***Christian Wundfeld*** - Drums
+***Christian Windfeld*** - Drums
 
 ***Libero Mureddu*** - Piano, Synth
 
