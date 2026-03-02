@@ -4,7 +4,7 @@ layout: concerts
 
 # Monday 02.03, 19.30, Big Hall
 
-***Liudas Mockūnas*** - Saxophones
+***Christian Wundfeld*** - Drums
 
 ***Libero Mureddu*** - Piano, Synth
 
@@ -30,7 +30,7 @@ layout: concerts
 
 ***Bert Mooiman*** - Organ 
 
-***Alistair MacDonald*** - Live-Electronics
+***Vlady Bystrov*** - Alto Saxophone
 
 ***Anne-Liis Poll*** - voice 
 
