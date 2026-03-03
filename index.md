@@ -219,13 +219,13 @@ layout: default
 ||Merinero, Noah (piano/keyboard)||
 ||Castella, Marcel (piano) ||
 ||||
-|MacDonald, Alistair|Chelărescu, Alin (piano)|*Room 301*|
+| Mikalkėnas,Arnas | Chelărescu, Alin (piano)|*Room 301*|
 ||Gerigk, Jonas (double bass)||
 ||Lee, Oliver (saxophone) ||
 ||Anderson, Jess (trombone)||
 ||Söderström, Oskar (double bass) ||
 ||||
-|Mikalkėnas,Arnas|Lopez,Monica Candela (piano)|*Chamber Music Hall*|
+|Gerardo Gozzi|Lopez,Monica Candela (piano)|*Chamber Music Hall*|
 ||Ehrlich, Mika (voice,piano)||
 ||Strauch, Charlotte (bass clarinet)||
 ||Tătar,Dragoș-Paul (clarinet) ||
@@ -269,7 +269,7 @@ layout: default
 ||Castella, Marcel (piano) ||
 ||Ehrlich, Mika (voice,piano) ||
 ||||
-|Malaise, Jeroen||*Room 18*|
+|Senden, Yves ||*Room 18*|
 ||||
 |Quintans, Santiago||*Chamber Music Hall*|
 ||||
@@ -284,7 +284,7 @@ layout: default
 |:---------------|:---------------------------------|---------------------------------------:|
 |Hein, Nicola Leonard | |*Bank-Entrance Hall*|
 ||||
-|Senden, Yves ||*Room 18*|
+|Malaise, Jeroen||*Room 18*|
 ||||
 |Heckel, Stefan||*Room 161*|
 ||||
