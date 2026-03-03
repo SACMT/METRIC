@@ -6,7 +6,7 @@
 
 <div class = "md">
 
-###### 17:00-17:10
+### 17:00-17:10
 
 ***Florian Schrattenhofer*** — accordion
 
@@ -16,7 +16,7 @@
 
 -----------
 
-###### 17:10-17:20
+### 17:10-17:20
 
 ***Eleri-Sirje Treimann*** — Violin
 
@@ -30,7 +30,7 @@
 
 -----------
 
-##### 17:20-17:30
+### 17:20-17:30
 
 ***Ceres Lauwers*** — Cello
 
@@ -38,7 +38,7 @@
 
 -----------
 
-###### 17:30-17:45
+### 17:30-17:45
 
 ***Claire Theobald*** — Violin 
 
@@ -50,7 +50,7 @@
 
 -----------
 
-###### 17:45-18:00
+### 17:45-18:00
 
 ***Irma Malmros Pohland*** — Drums
 
@@ -68,7 +68,7 @@
 
 -----------
 
-###### 18:00-18:15
+### 18:00-18:15
 
 ***Juan Lopez*** — Cello
 
@@ -82,7 +82,7 @@
 
 -----------
 
-###### 18:15-18:25
+### 18:15-18:25
 
 ***Achille Alvarado*** — Trumpet
 
@@ -94,7 +94,7 @@
 
 -----------
 
-###### 18:25-18:40
+### 18:25-18:40
 
 ***Karolin Sigus*** — Piano
 
@@ -117,71 +117,71 @@
 
 <div class = "md">
 
-**17:00-17:25**
+### 17:00-17:25
 
-Pedro González Fernández - Violin, Live-Electronics        
+***Pedro González Fernández*** - Violin, Live-Electronics        
 
-Santiago Quintans - Electric Guitar        
+***Santiago Quintans*** - Electric Guitar        
 
-Gerardo Gozzi - Saxophones        
+***Gerardo Gozzi*** - Saxophones        
 
 -----------
 
-**17:25-17:50**        
+### 17:25-17:50        
 
-Nicola Leonard Hein – Buchla Music Easel, SAB        
+***Nicola Leonard Hein*** – Buchla Music Easel, SAB        
 
-Richard Barrett – Live-Electronics        
+***Richard Barrett*** – Live-Electronics        
 
-Arnas Mikalkėnas – Drums       
+***Arnas Mikalkėnas*** – Drums       
 
 ----------- 
 
-**17:50-18:05**        
+### 17:50-18:05        
 
-Jeroen Malaise - Piano        
+***Jeroen Malaise*** - Piano        
 
-Anto Pett - Piano     
-
------------  
-
-**18:05-18:30**        
-
-Bert Mooiman - Organ        
-
-Alistair MacDonald - Live-Electronics        
-
-Anne-Liis Poll - voice      
+***Anto Pett*** - Piano     
 
 -----------  
 
-**18:30-18:45**        
+### 18:05-18:30        
 
-Yves Senden - Piano        
+***Bert Mooiman*** - Organ        
 
-Adaya MalkaPeled - Voice        
+***Alistair MacDonald*** - Live-Electronics        
 
-Will Bracken - Piano   
+***Anne-Liis Poll*** - voice      
+
+-----------  
+
+### 18:30-18:45        
+
+***Yves Senden*** - Piano        
+
+***Adaya MalkaPeled*** - Voice        
+
+***Will Bracken*** - Piano   
 
 -----------    
 
-**18:45-19:00**        
+### 18:45-19:00        
 
-Peter Hebert – Double Bass        
+***Peter Hebert*** – Double Bass        
 
-Karen Schlimp – Piano        
+***Karen Schlimp*** – Piano        
 
-Corinna Eikmeier – Cello       
+***Corinna Eikmeier*** – Cello       
 
 ----------- 
 
-**19:00-19:20**        
+### 19:00-19:20        
 
-Liudas Mockūnas - Saxophones        
+***Liudas Mockūnas*** - Saxophones        
 
-Libero Mureddu - Piano, Synth        
+***Libero Mureddu*** - Piano, Synth        
 
-Valerie Westlake-Klein - Movement, Performance     
+***Valerie Westlake-Klein*** - Movement, Performance     
    
 -----------
 
