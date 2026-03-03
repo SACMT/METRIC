@@ -24,7 +24,6 @@ layout: concerts
 
 ***Achille Alvarado*** — Trumpet
 
-
 ***Tom Macfadyen*** — Electronics
 
 ***Mariia Zhuravlova*** — Violin

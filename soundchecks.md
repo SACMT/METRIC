@@ -8,105 +8,105 @@
 
 **17:00-17:10**
 
-Flora accordion
+***Florian Schrattenhofer*** — accordion
 
-Matthew cello
+***Mathew Roberts*** — Cello
 
-Karolin Sigus piano
+***Karolin Sigus*** — Piano
 
 -----------
 
 **17:10-17:20**
 
-Eleri Treiman violin 
+***Eleri-Sirje Treimann*** — Violin
 
-Ibai cello
+***Ibai Pijoan Markaida*** — Cello
 
-Oskar d. bass
+***Oskar Söderström*** — Double bass
 
-Noah piano
+***Noah Merinero*** — Piano
 
-Irma drums
+***Irma Malmros Pohland*** — Drums
 
 -----------
 
 **17:20-17:30**
 
-Ceres Lauwers cello, 
+***Ceres Lauwers*** — Cello
 
-Ng, Hoi Yin vibraphone
+***Hoi Yin Ng*** — Vibraphone
 
 -----------
 
 **17:30-17:45**
 
-Theobald Claire violin, 
+***Claire Theobald*** — Violin 
 
-Aina Ribes violin, 
+***Aina Ribes*** — Violin
 
-Monica Lopet piano, 
+***Monica Candela Lopez*** — Piano
 
-Katia Milano cello
+***Katia Milano*** — Cello
 
 -----------
 
 **17:45-18:00**
 
-Irma drums,
+***Irma Malmros Pohland*** — Drums
 
-Goeun Kim electronics, 
+***Goeun Kim*** — Electronics
 
-Hoi Yin vibraphone, 
+***Hoi Yin Ng*** — Vibraphone
 
-Jakob guitar, 
+***Jacob Kolb*** — Electric Guitar
 
-Jess Anderson trombone, 
+***Jess Anderson*** — Trombone 
 
-Erik piano, 
+***Erik*** — Piano
 
-Pranas drums
+***Pranas Germanavicius*** — Drums
 
 -----------
 
 **18:00-18:15**
 
-Juan Lopez cello
+***Juan Lopez*** — Cello
 
-Ceres cello, 
+***Ceres Lauwers*** — Cello
 
-Charlotte bass clarinet, 
+***Charlotte Strauch*** — Bass clarinet
 
-Nora voice, 
+***Nora Benamara*** — Voice
 
-Leala Ekerold voice
+***Leala-Domini Ekerold*** — Voice
 
 -----------
 
 **18:15-18:25**
 
-Achille trumpeti 
+***Achille Alvarado*** — Trumpet
 
-Tom electronics, 
+***Tom Macfadyen*** — Electronics
 
-Marija violin, 
+***Mariia Zhuravlova*** — Violin
 
-Eva cello
+***Eva Aguilar*** — Cello
 
 -----------
 
 **18:25-18:40**
 
-Karolin Sigus piano, 
+***Karolin Sigus*** — Piano
 
-Kim Goeun electronics, 
+***Goeun Kim*** — Electronics
 
-Emilie Brazyte sax, 
+***Emilie Brazyte*** — Sax
 
-Norra Benamara voice, 
+***Norra Benamara*** — Voice
 
-Ng Hoi Yin vibraphone,
+***Hoi Yin Ng*** — Vibraphone
 
-Germanavicius Pranas drums
+***Pranas Germanavicius*** — Drums
 
 </div>
 </details>
