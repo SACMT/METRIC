@@ -1,6 +1,10 @@
 # SOUNDCHECKS  
 
-## Monday 02.03
+<details>
+
+<summary>Monday 02.03</summary>
+
+<div class = "md">
 
 **17:00-17:25**
 
@@ -69,3 +73,6 @@ Libero Mureddu - Piano, Synth
 Valerie Westlake-Klein - Movement, Performance     
    
 -----------
+
+</details>
+</div>

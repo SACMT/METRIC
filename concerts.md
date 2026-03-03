@@ -55,7 +55,7 @@ layout: concerts
 
 ***Jess Anderson*** — Trombone 
 
-***Mika Ehrlich*** — Piano
+<!-- ***Mika Ehrlich*** — Piano -->
 
 ***Pranas Germanavicius*** — Drums
 
