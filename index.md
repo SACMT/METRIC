@@ -186,8 +186,8 @@ layout: default
 ||Kauniskangas, Otso (electronics,percussion)||
 ||Torbo, Runa Kirby (double bass)||
 ||||
-|Mooiman, Bert / Gerardo Gozzi (**Wednesday**)|Frey, Denise (saxophone)|*Room 1AB*|
-|Forsén, Arne (**Thursday**)|Pohland, Irma Malmros (drums)||
+|Mooiman, Bert / Gerardo Gozzi (**Wednesday**) // Forsén, Arne (**Thursday**)|Frey, Denise (saxophone)|*Room 1AB*|
+||Pohland, Irma Malmros (drums)||
 ||Simirad, Alexandru (piano) ||
 ||Merinero, Noah (piano/keyboard)||
 ||Anderson, Jess (trombone) ||
@@ -239,8 +239,8 @@ layout: default
 ||Kim, Goeun (electronics)||
 ||Pohland, Irma Malmros (drums)||
 ||||
-|Bracken, Will (**Wednesday**)|Smovzh, Orest (violin)|*Room 1AB*|
-|Mooiman, Bert (**Thursday**)|Simirad, Alexandru (piano)||
+|Bracken, Will (**Wednesday**) // Mooiman, Bert (**Thursday**)|Smovzh, Orest (violin)|*Room 1AB*|
+||Simirad, Alexandru (piano)||
 ||Roberts, Mathew (cello) ||
 ||Milano, Katia (cello)||
 ||Kolb, Jacob (electric guitar) ||
