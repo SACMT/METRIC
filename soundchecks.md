@@ -62,7 +62,7 @@
 
 ***Jess Anderson*** — Trombone 
 
-***Erik*** — Piano
+***Eric Rohrbach*** — Piano
 
 ***Pranas Germanavicius*** — Drums
 
