@@ -2,6 +2,59 @@
 
 <details>
 
+<summary>Wednesday 04.03</summary>
+
+<div class = "md">
+
+### 17:00-17:25
+ 
+***Jacob Kolb*** - Guitar
+
+***Aina Ribes*** - Violin
+
+***Eric Rohrbach*** - Piano
+
+***Flora Schrattenhofer*** - Accordion 
+
+***Irma Malmros Pohland*** - Drums
+
+***Nora Benamara*** - Voice
+
+ 
+### 17:25-17:50
+ 
+***Goeun Kim*** - Electronics 
+
+***Ilia Viazov*** - Electronics
+
+***Kiloh Lee*** - Electronics 
+
+***Grigorii Osipov*** - Drums
+
+
+### 17:50-18:20
+
+***Nicola Hein*** - Electronics 
+
+***Pranas Germanavicius*** - Drums
+
+***Emile Brazyte*** - Saxophone
+
+***Anto Pett*** - Piano
+
+### 18:20-18:40
+
+***Roxana Albayati*** - Ghaychak
+
+***Arnas Mikalkėnas*** - Drums
+
+***Anne-Liis Poll*** - Voice
+
+</div>
+</details>
+
+<details>
+
 <summary>Tuesday 03.03</summary>
 
 <div class = "md">

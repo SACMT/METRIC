@@ -4,6 +4,173 @@ layout: concerts
 
 <details>
 
+<summary>Wednesday 04.03, 19.30, Chamber Music Hall</summary>
+
+<div class = "md">
+
+***Roxana Albayati*** - Ghaychak
+
+***Arnas Mikalkėnas*** - Drums
+
+***Anne-Liis Poll*** - Voice
+
+-----------
+
+***Orest Smovzh*** - Violin
+
+***Alexandru Simirad*** - Piano 
+
+***Mathew Roberts*** - Cello
+
+***Katia Milano*** - Cello
+
+***Leala-Domini Ekerold*** - Percussion
+
+***Jacob Kolb*** - Electric guitar
+
+***Aina Ribes*** - Violin
+
+***Erik Schutz*** - Piano
+
+-----------
+
+***Arnas Mikalkėnas*** - Drums
+
+***Pranas Germanavicius*** - Drums
+
+***Emile Brazyte*** - Saxophone 
+
+***Teodoras Butas*** - Saxophone
+
+-----------
+
+***Maximilian Treller*** - Harp 
+
+***Leala-Domini Ekerold*** - Voice
+
+-----------
+
+***Claire Theobald*** - Violin
+
+***Achille Alvarado*** - Trumpet
+
+***Santiago Quintans*** - Guitar
+
+***Marcel Castella*** - Piano
+
+-----------
+
+***Goeun Kim*** - Electronics 
+
+***Ilia Viazov*** - Electronics
+
+***Kiloh Lee*** - Electronics 
+
+***Grigorii Osipov*** - Drums
+
+-----------
+
+***Juan Cuamatzi*** - Cello
+
+***Flora Schrattenhofer*** - Accordion 
+
+-----------
+
+***Mathew Roberts*** - Cello
+
+***Katia Milano*** - Cello
+
+***Alin Chelărescu*** - Piano
+
+-----------
+
+***Karolin Sigus*** - Piano
+
+***Vlady Bystrov*** - Saxophone
+
+***Christian Windfeld*** - Drums 
+
+-----------
+
+***Hoi Yin*** - Toys
+
+***Irma Malmros Pohland*** - Drums
+
+***Pranas Germanavicius*** - Drums
+
+***Grigorii Osipov*** - Drums
+
+-----------
+
+***Mariia Zhuravlova*** - Violin
+
+***Nora Benamara*** - Voice
+
+***Maximilian Treller*** - Harp
+
+-----------
+
+***Eleri-Sirje Treiman*** - Violin
+
+***Jonas Gerigk*** - Double Bass
+
+***Eric Rohrbach*** - Piano
+
+-----------
+
+***Jonas Gerigk*** - Double Bass
+
+***Maximilian Treller*** - Harp
+
+***Oliver Lee*** - Saxophone
+
+***Irma Malmros Pohland*** - Drums
+
+***Ibai Pijoan Markaida*** - Cello
+
+-----------
+
+***Nicola Hein*** - Electronics 
+
+***Pranas Germanavicius*** - Drums
+
+***Emile Brazyte*** - Saxophone
+
+***Anto Pett*** - Piano
+
+-----------
+
+***Oliver Lee*** - Saxophone
+
+***Maximilian Treller*** - Harp
+
+-----------
+
+***Emile Brazyte*** - Saxophone
+
+***Grigorii Osipov*** - Drums
+
+***Pranas Germanavicius*** - Drums
+
+-----------
+
+***Jacob Kolb*** - Guitar
+
+***Aina Ribes*** - Violin
+
+***Eric Rohrbach*** - Piano
+
+***Flora Schrattenhofer*** - Accordion 
+
+***Irma Malmros Pohland*** - Drums
+
+***Nora Benamara*** - Voice
+
+</div>
+</details>
+
+<details>
+
 <summary>Tuesday 03.03, 19.00, Chamber Music Hall</summary>
 
 <div class = "md">
