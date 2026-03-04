@@ -8,8 +8,6 @@ layout: concerts
 
 <div class = "md">
 
-*Special Guest* - ***Jonathan Hartwig***
-
 -----------
 
 ***Roxana Albayati*** - Ghaychak
