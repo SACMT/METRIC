@@ -100,8 +100,6 @@ layout: concerts
 
 ***Grigorii Osipov*** - Drums
 
-***Jonathan Hartwig*** - Drums
-
 -----------
 
 ***Mariia Zhuravlova*** - Violin
