@@ -8,8 +8,6 @@ layout: concerts
 
 <div class = "md">
 
------------
-
 ***Roxana Albayati*** - Ghaychak
 
 ***Arnas Mikalkėnas*** - Drums
@@ -101,6 +99,8 @@ layout: concerts
 ***Pranas Germanavicius*** - Drums
 
 ***Grigorii Osipov*** - Drums
+
+***Jonathan Hartwig*** - Drums
 
 -----------
 
