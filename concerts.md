@@ -166,6 +166,10 @@ layout: concerts
 
 ***Nora Benamara*** - Voice
 
+-----------
+
+*Special Guest* - ***Jonathan Hartwig***
+
 </div>
 </details>
 
