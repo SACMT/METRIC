@@ -8,6 +8,10 @@ layout: concerts
 
 <div class = "md">
 
+*Special Guest* - ***Jonathan Hartwig***
+
+-----------
+
 ***Roxana Albayati*** - Ghaychak
 
 ***Arnas Mikalkėnas*** - Drums
@@ -165,10 +169,6 @@ layout: concerts
 ***Irma Malmros Pohland*** - Drums
 
 ***Nora Benamara*** - Voice
-
------------
-
-*Special Guest* - ***Jonathan Hartwig***
 
 </div>
 </details>
