@@ -8,7 +8,159 @@ layout: concerts
 
 <div class = "md">
 
-### To be defined
+### 01 duo
+
+Hoi Yin Ng - piano
+
+Oliver Lee - soprano saxophone
+
+### 02 quartet
+
+Nora Benamara - voice
+
+Achille - trumpet
+
+Matt Roberts - cello
+
+Jessica Bull Anderson - trombone
+
+### 03 trio
+
+Leala Ekerold - voice
+
+Lumi Mannermaa - voice and electronics
+
+Masha Zhuravlova - violin
+
+### 04 quartet
+
+Lumi Mannermaa - voice and electronics
+
+Flora Schrattenholzer - accordion
+
+Eva Aguilar - cello and electronics
+
+Otso Kauniskangas - electronics
+
+### 05 duo
+
+Ibai Pijoan Markaida - Cello
+
+Juan Lopez Cuamatzi - Cello
+
+### 06 trio
+
+Mika Ehrlich - voice
+
+Charlotte Strauch - Bass clarinet
+
+Pranas Germanavicius - drums
+
+### 07 quartet
+
+Orest - violin
+
+Otso Kauniskangas - electronics
+
+Lumi Mannermaa - electronics
+
+Jacob Kolb - electric guitar
+
+### 08 trio
+
+Orest - violin
+
+Karolin Sigus - piano
+
+Emile Brazyte - Saxophone
+
+### 09 quartet
+
+Maximilian Treller - Harp
+
+Ibai Pijoan Markaida - Cello
+
+Teodoras Butas - saxohopne
+
+Claire Theobald - violin
+
+Nora Benamara - voice
+
+### INTERMISSION 15'
+
+### 10 quartet
+
+Aina Ribes - violin
+
+Katia Milano - cello
+
+Marcel Castella - piano
+
+Jacob Kolb - electric guitar
+
+### 11 septet
+
+Monica Candela Lopez - piano
+
+Florian Schrattenhofer - accordion
+
+Oskar Söderström - double bass
+
+Pranas Germanavicius - percussion
+
+Tom Macfadyen - electronics
+
+Aina Ribes - violin
+
+Leala-Domini Ekerold - violin
+
+### 12 quintet
+
+Eleri Treiman - violin
+
+Karolin Sigus - piano
+
+Teodoras Butas - saxophone
+
+Emile Brazyte - Saxophone
+
+Pranas Germanavicius - percussion
+
+### 13 trio
+
+Will Bracken - piano
+
+Oliver Lee - soprano saxophone
+
+Ibai Pijoan Markaida - Cello
+
+### 14 trio
+
+Noah Merinero - electronics
+
+Soroor Notash - Tar
+
+Eleri Treiman - violin
+
+### 15 trio
+
+Jessica Bull Anderson - trombone
+
+Masha Zhuravlova - violin
+
+Jacob Kolb - electronics and guitar
+
+### 16 duo
+
+Jonas Gerigk - double bass
+
+Ceres Lauwers - cello
+
+### 17 duo
+
+Matt Roberts - cello
+
+Charlotte Strauch - bass clarinet
 
 </div>
 
