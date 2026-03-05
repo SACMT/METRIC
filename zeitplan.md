@@ -91,7 +91,6 @@ layout: default
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
-| 09.00-09.30 | Welcome Session           | *Big Hall*                             |
 | 09.30-11.00 | Workshop 1                | [*Workshop Rooms*](index.md)           |
 | 11.00-11.30 | Pause                     | *Room 39*                              |
 | 11.30-13.00 | Workshop 2                | [*Workshop Rooms*](index.md)           |
@@ -113,7 +112,6 @@ layout: default
 
 | Time        | Event                     | Location                               |
 |:------------|:--------------------------|---------------------------------------:|
-| 09.00-09.30 | Welcome Session           | *Big Hall*                             |
 | 09.30-11.00 | Workshop 1                | [*Workshop Rooms*](index.md)           |
 | 11.00-11.30 | Pause                     | *Room 39*                              |
 | 11.30-13.00 | Workshop 2                | [*Workshop Rooms*](index.md)           |
