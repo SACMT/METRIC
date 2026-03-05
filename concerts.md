@@ -62,7 +62,7 @@ layout: concerts
 
 ***Lumi Mannermaa*** - electronics
 
-Jacob Kolb - electric guitar
+***Jacob Kolb*** - electric guitar
 
 -----------
 
@@ -84,9 +84,11 @@ Jacob Kolb - electric guitar
 
 ***Nora Benamara*** - voice
 
+<br><br>
+
 ### INTERMISSION 15'
 
------------
+<br><br>
 
 ***Aina Ribes*** - violin
 
