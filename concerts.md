@@ -4,6 +4,30 @@ layout: concerts
 
 <details>
 
+<summary>Saturday 07.03, 19.30, Chamber Music Hall</summary>
+
+<div class = "md">
+
+### TO BE DEFINED
+
+</div>
+
+</details>
+
+<details>
+
+<summary>Friday 06.03, 19.30, Chamber Music Hall</summary>
+
+### TO BE DEFINED
+
+<div class = "md">
+
+</div>
+
+</details>
+
+<details>
+
 <summary>Thursday 05.03, 21.00, CVJM</summary>
 
 <div class = "md">
