@@ -8,159 +8,159 @@ layout: concerts
 
 <div class = "md">
 
-### 01 duo
+***Hoi Yin Ng*** - piano
 
-Hoi Yin Ng - piano
+***Oliver Lee*** - soprano saxophone
 
-Oliver Lee - soprano saxophone
+-----------
 
-### 02 quartet
+***Nora Benamara*** - voice
 
-Nora Benamara - voice
+***Achille Alvarado*** - trumpet
 
-Achille - trumpet
+***Matt Roberts*** - cello
 
-Matt Roberts - cello
+***Jessica Bull Anderson*** - trombone
 
-Jessica Bull Anderson - trombone
+-----------
 
-### 03 trio
+***Leala Ekerold*** - voice
 
-Leala Ekerold - voice
+***Lumi Mannermaa*** - voice and electronics
 
-Lumi Mannermaa - voice and electronics
+***Masha Zhuravlova*** - violin
 
-Masha Zhuravlova - violin
+-----------
 
-### 04 quartet
+***Lumi Mannermaa*** - voice and electronics
 
-Lumi Mannermaa - voice and electronics
+***Flora Schrattenholzer*** - accordion
 
-Flora Schrattenholzer - accordion
+***Eva Aguilar*** - cello and electronics
 
-Eva Aguilar - cello and electronics
+***Otso Kauniskangas*** - electronics
 
-Otso Kauniskangas - electronics
+-----------
 
-### 05 duo
+***Ibai Pijoan Markaida*** - cello
 
-Ibai Pijoan Markaida - Cello
+***Juan Lopez Cuamatzi*** - cello
 
-Juan Lopez Cuamatzi - Cello
+-----------
 
-### 06 trio
+***Mika Ehrlich*** - voice
 
-Mika Ehrlich - voice
+***Charlotte Strauch*** - bass clarinet
 
-Charlotte Strauch - Bass clarinet
+***Pranas Germanavicius*** - drums
 
-Pranas Germanavicius - drums
+-----------
 
-### 07 quartet
+***Orest Smovzh*** - violin
 
-Orest - violin
+***Otso Kauniskangas*** - electronics
 
-Otso Kauniskangas - electronics
-
-Lumi Mannermaa - electronics
+***Lumi Mannermaa*** - electronics
 
 Jacob Kolb - electric guitar
 
-### 08 trio
+-----------
 
-Orest - violin
+***Orest Smovzh*** - violin
 
-Karolin Sigus - piano
+***Karolin Sigus*** - piano
 
-Emile Brazyte - Saxophone
+***Emile Brazyte*** - saxophone
 
-### 09 quartet
+-----------
 
-Maximilian Treller - Harp
+***Maximilian Treller*** - harp
 
-Ibai Pijoan Markaida - Cello
+***Ibai Pijoan Markaida*** - cello
 
-Teodoras Butas - saxohopne
+***Teodoras Butas*** - saxohopne
 
-Claire Theobald - violin
+***Claire Theobald*** - violin
 
-Nora Benamara - voice
+***Nora Benamara*** - voice
+
+-----------
 
 ### INTERMISSION 15'
 
-### 10 quartet
+-----------
 
-Aina Ribes - violin
+***Aina Ribes*** - violin
 
-Katia Milano - cello
+***Katia Milano*** - cello
 
-Marcel Castella - piano
+***Marcel Castella*** - piano
 
-Jacob Kolb - electric guitar
+***Jacob Kolb*** - electric guitar
 
-### 11 septet
+-----------
 
-Monica Candela Lopez - piano
+***Monica Candela Lopez*** - piano
 
-Florian Schrattenhofer - accordion
+***Florian Schrattenhofer*** - accordion
 
-Oskar Söderström - double bass
+***Oskar Söderström*** - double bass
 
-Pranas Germanavicius - percussion
+***Pranas Germanavicius*** - percussion
 
-Tom Macfadyen - electronics
+***Tom Macfadyen*** - electronics
 
-Aina Ribes - violin
+***Aina Ribes*** - violin
 
-Leala-Domini Ekerold - violin
+***Leala-Domini Ekerold*** - violin
 
-### 12 quintet
+-----------
 
-Eleri Treiman - violin
+***Eleri Treiman*** - violin
 
-Karolin Sigus - piano
+***Karolin Sigus*** - piano
 
-Teodoras Butas - saxophone
+***Teodoras Butas*** - saxophone
 
-Emile Brazyte - Saxophone
+***Emile Brazyte*** - saxophone
 
-Pranas Germanavicius - percussion
+***Pranas Germanavicius*** - percussion
 
-### 13 trio
+-----------
 
-Will Bracken - piano
+***Will Bracken*** - piano
 
-Oliver Lee - soprano saxophone
+***Oliver Lee*** - soprano saxophone
 
-Ibai Pijoan Markaida - Cello
+***Ibai Pijoan Markaida*** - cello
 
-### 14 trio
+-----------
 
-Noah Merinero - electronics
+***Noah Merinero*** - electronics
 
-Soroor Notash - Tar
+***Soroor Notash*** - tar
 
-Eleri Treiman - violin
+***Eleri Treiman*** - violin
 
-### 15 trio
+-----------
 
-Jessica Bull Anderson - trombone
+***Jessica Bull Anderson*** - trombone
 
-Masha Zhuravlova - violin
+***Masha Zhuravlova*** - violin
 
-Jacob Kolb - electronics and guitar
+***Jacob Kolb*** - electronics and guitar
 
-### 16 duo
+-----------
 
-Jonas Gerigk - double bass
+***Jonas Gerigk*** - double bass
 
-Ceres Lauwers - cello
+***Ceres Lauwers*** - cello
 
-### 17 duo
+-----------
 
-Matt Roberts - cello
+***Matt Roberts*** - cello
 
-Charlotte Strauch - bass clarinet
+***Charlotte Strauch*** - bass clarinet
 
 </div>
 
