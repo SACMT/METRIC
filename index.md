@@ -302,8 +302,6 @@ layout: default
 ||Merinero, Noah (piano/keyboard)||
 ||Castella, Marcel (piano) ||
 ||||
-|Gerardo Gozzi || *Big Hall - Backstage*|
-||||
 
 </div>
 </details>
