@@ -16,7 +16,7 @@ layout: concerts
 
 <details>
 
-<summary>Friday 06.03, 19.30, Chamber Music Hall</summary>
+<summary>Friday 06.03, 19.00, Big Hall</summary>
 
 ### TO BE DEFINED
 
