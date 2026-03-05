@@ -18,9 +18,9 @@ layout: concerts
 
 <summary>Friday 06.03, 19.00, Big Hall</summary>
 
-### TO BE DEFINED
-
 <div class = "md">
+
+### TO BE DEFINED
 
 </div>
 
