@@ -84,8 +84,6 @@ Jacob Kolb - electric guitar
 
 ***Nora Benamara*** - voice
 
------------
-
 ### INTERMISSION 15'
 
 -----------
