@@ -2,6 +2,87 @@
 
 <details>
 
+<summary>Saturday 07.03</summary>
+
+<div class = "md">
+
+### 17:15-17:35
+ 
+***Yves Senden*** - Piano
+
+***Bert Mooiman*** - Piano
+
+***Adaya MalkaPeled*** - Voice
+
+***Valerie Westlake-Klein*** - Movement
+
+***Sonja Horlacher*** - Flute
+
+***Roxana Albayati*** - Ghaychak
+
+### 17:35-17:45
+
+***David Dolan*** - Piano
+
+***Jeroen Malaise*** - Piano
+
+***Dieter Müller*** - Voice
+
+### 17:45-18:00
+
+***Arne Forsen*** - Piano
+
+***Aldona Nawrocka-Woźniak*** - Piano
+ 
+
+### 18:00 -18:15
+ 
+***Anto Pett*** - Piano
+
+***Ilia Viazov*** - Wildschwein
+
+***Vlady Bystrov*** - Alto Saxophone
+
+ 
+ 
+### 18:15-18:30
+ 
+***Nicola Leonard Hein*** - Buchla Music Easel, Sab
+
+***Gerardo Gozzi*** - Alto Saxophone
+
+***Santiago Quintans*** - Electric Guitar
+
+***Melvyn Poore*** - Tuba
+
+### 18:30 -18:50
+
+***Karen Schlimp*** - Piano
+
+***Pedro González Fernández*** - Violin, Electronics
+
+***Margret Poore*** - Flute
+
+***Grigorii Osipov*** - Percussion
+
+### 18:50 -19:10
+
+***Ninon Gloger*** - Piano
+
+***Libero Mureddu*** - Electronics
+
+***Corinna Eikmeier*** - Cello
+
+***Goeun Kim*** - Goma-02
+
+***Anne-Liis Poll*** - Voice
+
+</div>
+
+</details>
+
+<details>
+
 <summary>Wednesday 04.03</summary>
 
 <div class = "md">

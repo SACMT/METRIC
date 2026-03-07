@@ -28,7 +28,7 @@ layout: concerts
 
 ***Corinna Eikmeier*** - Cello 
 
-***Goeun Kim*** - Goma2
+***Goeun Kim*** - Goma-02
 
 ***Anne-Liis Poll*** - Voice
 
@@ -55,7 +55,7 @@ layout: concerts
 ***Margret Poore*** - Flute
 
 ***Grigorii Osipov*** - Percussion 
-
+ 
 -----------
 
 ***Nicola Leonard Hein*** - Buchla Music Easel, Sab
