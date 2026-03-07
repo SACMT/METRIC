@@ -12,13 +12,19 @@ layout: concerts
 
 ***Bert Mooiman*** - Piano
 
-***Adaya MalkaPeled*** - Voice
-
 ***Valerie Westlake-Klein*** - Movement 
 
 ***Sonja Horlacher*** - Flute
 
 ***Roxana Albayati*** - Ghaychak
+
+-----------
+
+***David Dolan*** - Piano
+
+***Jeroen Malaise*** - Piano 
+
+***Dieter Müller*** - voice
 
 -----------
 
@@ -31,14 +37,6 @@ layout: concerts
 ***Goeun Kim*** - Goma-02
 
 ***Anne-Liis Poll*** - Voice
-
------------
-
-***David Dolan*** - Piano
-
-***Jeroen Malaise*** - Piano 
-
-***Dieter Müller*** - voice
 
 -----------
 
